@@ -1,0 +1,3 @@
+# ninja log v5
+0	15152	1699874325427357307	/home/abhay/is_tiplet_loss/network/correlation_package/build/temp.linux-x86_64-cpython-38/correlation_cuda.o	e193fa9b995c0d82
+0	38798	1699874349059357741	/home/abhay/is_tiplet_loss/network/correlation_package/build/temp.linux-x86_64-cpython-38/correlation_cuda_kernel.o	31b4a0e6c1e1380f
